@@ -6,13 +6,5 @@ def position_taken?(board,index)
  end
 end
   
-  #if board[index] == [" "] || [""] || nil
-
-
-
-#["", "", "", "", "", "", "", "", ""]
- #if board[index] == [" "] || [""] || nil
- #elsif board[index] == [{"X"}] || [{"O"}]
-   #return true
 
 # code your #position_taken? method here!
